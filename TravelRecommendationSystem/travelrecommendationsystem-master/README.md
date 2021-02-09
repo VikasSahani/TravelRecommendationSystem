@@ -25,17 +25,30 @@ A sample execution of the program is shown to help better understand the executi
 ------------------------------------------------------------------------------
 
 Enter Transport---------------(Air/Train/Road/Sea)
+
 Road
+
 Enter Place Type-------------(Heritage/Religious/Adventure/Hill/Beach/Desert)
+
 Heritage
+
 Enter Food Type------------(Indian/Continental/Chinese/Thai/Italian/Other)
+
 Indian
+
 Enter Weather---------------(Hot/Cold/Moderate/Rainy)
+
 Hot
+
 Enter Duration---------------(under3days/3-5days/over5days)
+
 under3days
+
 Enter Budget----------------(under20k/20k-50k/over50k)
+
 under20k
+
+
 
 -----------------------------------------------------------------------------
 Recommended place(s) to visit is/are-
