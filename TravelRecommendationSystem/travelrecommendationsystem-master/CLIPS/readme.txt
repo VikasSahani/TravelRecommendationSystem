@@ -1,7 +1,3 @@
-GROUP NAME : PROJECT GROUP 6
-MEMBERS: Aadya Mishra , Prateek Kumar Nayak , Kiran Kumar Datti , Ishan Arora , Vikrant Singh , Srikar Anand Yellapragada , Akshay Gupta , Naman Deept
-PROJECT NAME: Travel Recommendation Expert System
-
 PROJECT DESCRIPTION: 
 This project built in CLIPS uses several facts and rules , utilizes the powerful inference engine of CLIPS and backward chaining method to 
 come up to recommend possible places to visit after taking user's choices to visit.
